@@ -7,7 +7,7 @@
 ---
 
 ## About Me
-- 🔭 I’m currently working on **Platform Footwear** at Logic Software Ltd.
+- 🔭 I’m currently working on **Platform Footwear** **Platform Trims** at Logic Software Ltd.
 - 🌱 I’m currently learning **Advanced JavaScript and Node.js**.
 - 👯 I’m looking to collaborate on **open-source projects**.
 - 💬 Ask me about **PHP, Laravel, JavaScript, and Competitive Programming**.
@@ -60,7 +60,14 @@
 ### Platform Footwear
 - **Description:** Automation of footwear industries.
 - **Role:** Team Lead
-- **Technologies:** PHP, Oracle
+- **Technologies:** PHP, Oracle ,Websocket, Node.js
+
+
+## Projects
+### Platform Trims
+- **Description:** Automation of Trims industries.
+- **Role:** Team Lead
+- **Technologies:** PHP, Oracle ,Websocket, Node.js
 
 ### Platform ERP
 - **Description:** Automation of textile and RMG industries.
