@@ -60,12 +60,12 @@
 ### Platform Footwear
 - **Description:** Automation of footwear industries.
 - **Role:** Team Lead
-- **Technologies:** PHP, Laravel, MySQL
+- **Technologies:** PHP, Oracle
 
 ### Platform ERP
 - **Description:** Automation of textile and RMG industries.
 - **Role:** Senior Programmer
-- **Technologies:** PHP, Laravel, MySQL
+- **Technologies:** PHP, Oracle ,Websocket, Node.js
 
 ### Management Guideline of Medical Diseases
 - **Description:** Android app with Laravel backend.
