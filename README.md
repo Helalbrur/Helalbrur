@@ -47,7 +47,7 @@
 **Logic Software Ltd.** | *January 2020 - Present*  
 📍 Gulshan-2, Dhaka  
 - Leading a team to develop **Platform Footwear** and **Platform Trims**.
-- Contributing to the automation of textile and RMG industries.
+- Contributing to the automation of Footwear, Trims, textile and RMG industries.
 
 ### Laravel Developer (Part-Time)
 **ZS Technology** | *August 2018 - December 2019*  
