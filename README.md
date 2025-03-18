@@ -46,7 +46,7 @@
 ### Senior Software Engineer (Team Lead)
 **Logic Software Ltd.** | *January 2020 - Present*  
 📍 Gulshan-2, Dhaka  
-- Leading a team to develop **Platform Footwear** and **Platform ERP**.
+- Leading a team to develop **Platform Footwear** and **Platform Trims**.
 - Contributing to the automation of textile and RMG industries.
 
 ### Laravel Developer (Part-Time)
