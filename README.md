@@ -128,4 +128,4 @@
 
 ---
 
-👀 **Visitor Count:** ![Profile Views](https://komarev.com/ghpvc/?username=Helalbrur&color=blue)
+👀 **Visitor Count:** ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Helalbrur)
