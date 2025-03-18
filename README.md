@@ -62,8 +62,6 @@
 - **Role:** Team Lead
 - **Technologies:** PHP, Oracle ,Websocket, Node.js
 
-
-## Projects
 ### Platform Trims
 - **Description:** Automation of Trims industries.
 - **Role:** Team Lead
