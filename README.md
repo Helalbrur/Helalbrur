@@ -1,6 +1,6 @@
 # Hi, I'm Md. Helal Uddin 👋
 
-### Senior Software Engineer | Competitive Programmer | Full-Stack Developer
+### Team Lead | Senior Software Engineer | Competitive Programmer | Full-Stack Developer
 
 📞 **+8801758502951** | 📧 **helaluddin.bru@gmail.com**
 
@@ -130,4 +130,4 @@
 
 ---
 
-👀 **Visitor Count:** ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Helalbrur.Helalbrur)
+👀 **Visitor Count:** ![Profile Views](https://komarev.com/ghpvc/?username=Helalbrur&color=blue)
